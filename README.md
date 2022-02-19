@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand the steps needed to complete an assignment and submit it in Canvas
+- Understand the steps needed to complete an assignment and submit it in canvas
 
 ## Introduction
 
